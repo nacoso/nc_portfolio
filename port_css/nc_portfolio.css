@@ -1,0 +1,72 @@
+body {
+}
+
+h1 {
+  border: solid;
+  margin: 10px;
+  background-color: #e6e6ff;
+  height: 50px;
+  text-align: center;
+}
+
+h2 {
+  background-color: #e6e6ff;
+  text-align: center;
+  margin: 5px;
+}
+
+h3 {
+  text-align: center;
+  background-color: #e6e6ff;
+}
+
+p {
+  font-size: 22px;
+}
+
+.container {
+  /*border: solid;*/
+  column-count: 3;
+  height: 350px;
+  margin: 10px;
+  /*padding: 10px;*/
+}
+
+.bio {
+  border: solid;
+  height: 290px;
+  background-color: #ffffe6;
+}
+
+.social {
+  border: solid;
+  height: 290px;
+  background-color: #ffffe6;
+}
+
+.contact {
+  border: solid;
+  height: 290px;
+  background-color: #ffffe6;
+}
+
+.project_title {
+  border: solid;
+  height: 50px;
+  margin: 10px;
+}
+
+.project_box {
+  /*border: solid;*/
+  column-count: 4;
+  padding: 15px;
+  /*margin: 10px;*/
+  height: 200px;
+}
+
+.eachproject {
+  border: solid;
+  height: 175px;
+  background-color: #ffffe6;
+  text-align: center;
+}
